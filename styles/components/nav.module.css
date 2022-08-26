@@ -1,0 +1,16 @@
+.login_button{
+    color : #fff ;
+    background-color: #99ba51;
+    border-radius: 20px;
+    border : 2px solid rgb(138, 136, 136) ;
+    padding : .2rem 1rem ;
+    transition : 500ms ;
+}
+.login_button:hover{
+    border : 2px solid black ;
+    color : #333 ;
+}
+.navbar{
+    font-weight : 600 ;
+    font-size: .8rem;
+}

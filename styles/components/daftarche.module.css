@@ -1,0 +1,31 @@
+.container_daftarche{
+    width : 100% ;
+    height : max-content ;
+    background: url("/images/daftarche.png") center center no-repeat;
+    background-size: unset;
+}
+.para{
+    font-size: 1.3rem;
+    font-weight : 600 ;
+    color : rgb(67, 67, 221)
+}
+.container_button{
+    display: flex;
+    justify-content: flex-end;
+}
+.container_button > p{
+    margin: 1rem 0 4rem 0 ;
+}
+.button_form{
+    border : 0px solid ;
+    padding : .2rem 1rem ;
+    color : #333 ;
+    background-color: grey;
+    border-radius: 20px;
+}
+.daftarche_inner{
+    width : 100% ;
+    height : max-content ;
+    margin-top : 6rem ;
+    padding : 1rem 4rem;
+}

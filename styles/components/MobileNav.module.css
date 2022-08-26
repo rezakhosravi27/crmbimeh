@@ -1,0 +1,31 @@
+.icon_bar{
+    font-size: 2rem;
+}
+.mobile_nav{
+    width : 100% ;
+    height : max-content ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top : 1rem ;
+}
+.mobile_nav > div{
+    width : 33% ;
+    height : auto ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon_bars{
+    font-size: 2rem;
+    color : rgb(143, 156, 233) ;
+    cursor: pointer;
+}
+.icon_user{
+    font-size: 2rem;
+    color : rgb(99, 115, 202)  ;
+}
+.mobile_img_logo{
+    width : 70px ;
+    height : 50px ;
+}

@@ -1,0 +1,21 @@
+@import url("fonts/font.css");
+html,
+body {
+  padding: 0;
+  margin: 0;
+  direction: rtl;
+  font-family: yekan !important;
+  overflow-x: hidden;
+}
+
+a {
+  color: #333 !important;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  padding : 0 ;
+  margin : 0 ; 
+  text-align: right !important;
+}

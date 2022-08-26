@@ -1,0 +1,35 @@
+.footer{
+    width : 100% ;
+    height : max-content ;
+    background-color: #34343c;
+    padding : 1rem 4rem;
+}
+.spans{
+    font-size: 1.2rem;
+    font-weight : 600 ;
+    color : #feb90b
+}
+.hr{
+    height : .5vh ;
+    border-radius: 10px;
+    width : 100% ;
+    color : #feb90b ;
+    background-color: #feb90b;
+}
+.para_footer{
+    color : white ;
+}
+.svg_img{
+    margin : 0 .5rem ;
+}
+.icons_messanger{
+    font-size: 2rem;
+    color : white ;
+    margin : 0 .5rem ;
+}
+
+.matn_footer{
+    color : white ;
+    margin-right : 1rem ;
+    color : white ;
+}
